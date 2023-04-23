@@ -1,0 +1,7 @@
+/zero
+/env
+*.env
+*.pyc
+node_modules/
+/*.pyc
+/./*.pyc
